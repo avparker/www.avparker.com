@@ -1,0 +1,10 @@
+Options +FollowSymlinks
+<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteRule ^author/andrew/$ / [L]
+RewriteRule ^tag/(.*)/$ /category/$1/ [L]
+RewriteRule ^feed/$ /atom.xml [L]
+RewriteRule ^feed/atom/$ /atom.xml [L]
+</IfModule>
+
+ErrorDocument 404 /404.html
