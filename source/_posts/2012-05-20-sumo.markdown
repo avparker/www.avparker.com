@@ -1,0 +1,30 @@
+---
+layout: post
+title: Sumo
+categories:
+- misc
+- japan
+- photos
+comments: true
+---
+Yesterday I went to see the [sumo](http://en.wikipedia.org/wiki/Sumo) for the first time.
+
+{% avpimgcenter /images/2012/05/sumo/sumo-01-kokugikan-flags.jpg 640 425 'Flags outside the kokugikan.' %}
+
+{% avpimgcenter /images/2012/05/sumo/sumo-17-dohyo-iri.jpg 425 640 'Hakuho, the only current Yokozuna, during the Dohyo-iri ceremony.' %}
+
+The Rikishi (sumo competitors) look amazing in their ceremonial Mawashi.
+
+{% avpimgcenter /images/2012/05/sumo/sumo-13-makuuchi-west.jpg 640 425 'The Rikishi during the "Dohyo-iri" ceremony.' %}
+
+{% avpimgcenter /images/2012/05/sumo/sumo-28-shikiri.jpg 640 425 'Shikiri pose - getting ready for the match.' %}
+
+The crowd was really getting into it because the tournament is quite close - three rikishi were tied for first place on 10 wins, and Hakuko, the only current Yokozuna (grand champion) was one behind with 9 wins.
+
+Here's the final match, between Hakuyo and Baruto.
+
+<iframe width="640" height="480" src="http://www.youtube.com/embed/wQYDSdd9Uic" frameborder="0" allowfullscreen></iframe>
+
+The leaders all won their matches so the tournament will be decided today.
+
+More photos in the [photo album](https://plus.google.com/photos/104218280095952931802/albums/5744442242854827473).

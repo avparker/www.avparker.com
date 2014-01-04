@@ -1,0 +1,26 @@
+---
+layout: post
+title: "こんにちは！"
+date: 2005-04-02 16:55
+categories:
+- japanese
+comments: false
+---
+This is a small test to check entry of 日本語 (Japanese).
+
+2年前から日本語をべんきょうしています。
+私の日本語はまだ下手ですががんばています！
+[For the last 2 years I've been studying Japanese.
+My Japanese is still poor, but I'm sticking with it!]
+
+Learning Japanese is great fun, but it's definitely a challenge.
+
+Superficially, everything is "backwards". For example, the phrase "there is a cat on the desk" is translated as ”つくえ の 上 に 猫 が います”, which is literally "desk's on cat there is". It's difficult to construct a sentence in this way, but after only a little practice understanding such a sentence isn't hard. It's quite amazing how the human brain can adapt to these patterns. Ironically, one of the things I enjoy about learning Japanese is that I also get to learn more about English grammar (perhaps it says something about the quality of the NZ & Australian education systems?). However, I think the biggest thing I've learnt is that I have absolutely **no idea** how I *construct* sentences in English!
+
+Of course, I'm still at quite a basic level in my study of Japanese. I passed JLPT level 4 (the easiest level) last November, JLPT level 3 is probably a couple of years away. No doubt it'll get a lot harder!
+
+Then there's the biggest hurdle to "learning" Japanese  - the writing system. Kanji is enough to scare any sane person into giving up Japanese. For a bit of a a discussion of the background (and power?) of Kanji, [Jonathon's article](http://weblog.delacour.net/archives/2002/04/japanese_writing.php) is interesting. Perhaps I'll post more on learning Kanji later.
+
+PS: If my Japanese above is incorrect, please let me know!
+
+PPS: I've got to say, one of the nice things about having a [mac](http://www.apple.com) is the ease of entering Japanese. Like everything else on the mac, it "just works", while at the same time being [incredibly powerful](http://www.paulgraham.com/mac.html) :-)

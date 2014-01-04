@@ -1,0 +1,38 @@
+---
+layout: post
+title: Mini-moos!
+categories:
+- japan
+- misc
+- photos
+- tokyo-cow-parade
+comments: true
+---
+I went to lunch with some colleagues today, and stumbled across 3 __miniature__ [cows]({{root_url}}/{{site.category_dir}}/tokyo-cow-parade/) on the third floor of the Shin-Marunouchi building! I checked the [Cow Parade Tokyo website](http://www.cowparade-tokyo.com/about.html), and cows 66 to 73 are "ミニムー"s ("mini-moos").
+
+<!-- TODO --> <a href="http://picasaweb.google.com/avparker/TokyoCowParade2008Japan"></a>
+{% avpimgcenter /wp-content/uploads/2008/09/cow_minimoos_candid1.jpg 480 360 'Mini-moos!' %}
+
+{% avpimgcenter /wp-content/uploads/2008/09/cow_minimoos_candid2.jpg 480 360 'Posing with the mini-moos!' %}
+
+<!--more-->
+
+{% avpimgcenter /wp-content/uploads/2008/09/cow_mini_68.jpg 480 360 'Mini-moo number 68' %}
+
+{% avpimgcenter /wp-content/uploads/2008/09/cow_mini_69.jpg 480 360 'Mini-moo number 69' %}
+
+{% avpimgcenter /wp-content/uploads/2008/09/cow_mini_70.jpg 480 360 'Mini-moo number 70' %}
+
+I asked at the reception (in Japanese, so it doesn't count as cheating!), and there were two more (regular sized) cows, on the fifth and seventh floors.
+
+{% avpimgcenter /wp-content/uploads/2008/09/cow_43.jpg 480 360 'Cow number 43' %}
+
+{% avpimgcenter /wp-content/uploads/2008/09/cow_43_closeup.jpg 470 640 'Close-up of cow number 43' %}
+
+{% avpimgcenter /wp-content/uploads/2008/09/cow_42.jpg 480 360 'Cow number 42' %}
+
+{% avpimgcenter /wp-content/uploads/2008/09/cow_42_closeup.jpg 480 640 'Close-up of cow number 42' %}
+
+Today's mini-moos: 68, 69, 70.<br/>
+Today's cows: 43, 42.<br/>
+Total cows to date: __61 of 65__ cows, __3 of 8__ mini-moos, __10 of 10__ cows of europe.

@@ -1,0 +1,15 @@
+---
+layout: post
+title: Waterfall 2006
+categories:
+- development
+- software
+comments: false
+---
+I was having a bit of a think about my current work project, and I remembered hearing about a conference that would be quite appropriate - [Waterfall 2006](http://www.waterfall2006.com/).
+
+I'm a member of the "build" team, which started "work" about 4 weeks ago. That would be "work" because we've basically had very little we can actually do, due to the fact that the design isn't finished (and doesn't look like it will be for quite a while).
+
+Perhaps the fact that the detailed design document for our project requires the sign-off of __38 people__ could have been an indication of the way things were heading...
+
+Be sure to [register](http://www.waterfall2006.com/register.html) today!

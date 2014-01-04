@@ -1,0 +1,11 @@
+---
+layout: post
+title: Trishaw
+categories:
+- misc
+- photos
+comments: true
+---
+{% avpimgcenter /wp-content/uploads/2007/04/trishaw.jpg 450 337 'Trishaw in front of Cheong Fatt Tze Mansion in Penang' %}
+
+Taken at the same location as my [rickshaws]({{root_url}}/2007/03/08/rickshaws/) photo, and also available in my [redbubble portfolio](http://www.redbubble.com/people/avparker/art/).

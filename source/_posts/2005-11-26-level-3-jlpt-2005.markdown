@@ -1,0 +1,32 @@
+---
+layout: post
+title: JLPT Level 3 Exam Preparation
+categories:
+- japanese
+comments: true
+---
+Next week I'm attempting the [JLPT](http://www.jees.or.jp/jlpt/en/index.htm) ３級 (Level 3)  Exam in Melbourne. I don't really expect to pass Level 3 this year, but figured I'd give it a go anyway. I thought I would write a little about my preparation (as opposed to actually preparing for the exam, which is what I _should_ be doing!).
+
+__The first step is to apply for the test__ (which is run only once a year in early December).
+Applications must be made roughly __between July and September__, and are available from the host organisation in your country (see the link above for a list of host organisations). In Australia it's [Japan Seminar House](http://www.japansh.com/new/jlpt.html). The test is offered in 4 Levels, with Level 1 being the hardest and Level 4 being the easiest. __You need choose the level when you apply for the test__. The test guide (available with the application form) explains the expectations for each level, so it shouldn't be too hard to figure out.
+
+__The next step is plenty of study! But where to start__?
+Luckily, the requirements for the test are well-defined. In fact, you can even download lists of the required vocabulary and Kanji for free! One excellent site for the JLPT resources (as well as general Japanese language resources) is the [Meguro Language Center free downloads](http://www.mlcjapanese.co.jp/Download.htm). You can also get study guides specifically for the JLPT.
+
+__I highly recommend sitting a practice exam__ as the exam approaches.
+The format of the exam is the same each year, and knowing what to expect makes the experience a whole lot less nerve-wracking. For example, the Level 3 test is multiple choice, and consists of three parts, with the following weightings.
+
+1. Kanji and vocabulary (25%)
+2. Listening (25%)
+3. Grammar (50%)
+
+A practice exam can also help you identify areas that you may have missed in your study, particularly for the grammar section. Previous exams, including the audio and the correct answers, should be available from a book store specialising in languages or Japanese.
+
+{% avpimgcenter /wp-content/jlpt_34_previous_exam.jpg 160 222 A book featuring a previous year's JLPT Level 3 and 4 exams. %}
+
+Another option available for study is to attend a specialised __JLPT preparation course__. So far I haven't done this, but I imagine it would help a lot more for Level 1 or Level 2.
+
+__Finally after all the hard work, you get to sit the exam!__
+Oh, and you get to wait for the results - they don't come out till some time in _February_!
+
+がんばってね！

@@ -1,0 +1,7 @@
+---
+layout: page
+---
+
+Sorry, the page you are looking for doesn't seem to exist.
+
+Please try searching the site, or checking the [archives]({{root_url}}/{{site.archives_dir}}).

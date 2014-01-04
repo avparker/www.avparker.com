@@ -1,0 +1,19 @@
+---
+layout: post
+title: Serenity
+categories:
+- misc
+comments: false
+---
+I'm kinda surprised [M1K3¥](http://blog.m1k3y.com/) hasn't blogged this. A couple of weeks ago there was a preview screening of [serenity](http://www.serenitymovie.com.au) in Melbourne.
+
+{% avpimgcenter /wp-content/serenity.jpg 320 256 serenity movie poster %}
+
+Serenity can be viewed as a standalone movie, but is based on the TV series [Firefly][1], by Joss Whedon (of Buffy & Angel fame). Unfortunately Firefly was cancelled mid-season (after being partially aired out of order!), but the whole season is available on DVD.
+
+To keep this vaguely on-topic, one of the interesting aspects in Firefly/Serenity is the mixture of English & Chinese. This is largely illustrated by the use of Chinese to replace swearing, but it is indicated that in the Firefly universe (set in the year 2517) English/Chinese bilinguality is the norm.
+
+No spoilers here, but I will say I enjoyed the movie a lot (more than most movies I've seen this year).
+[Serenity](http://www.serenitymovie.com.au) is out in Australia on September 30. Go see it!
+
+[1]: http://en.wikipedia.org/wiki/Firefly_(television_series) "Firefly"

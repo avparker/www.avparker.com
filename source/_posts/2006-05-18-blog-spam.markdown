@@ -1,0 +1,8 @@
+---
+layout: post
+title: blog spam
+categories:
+- misc
+comments: false
+---
+So the spammers finally found my blog. I'll be trying a few things to stop it until I can upgrade wordpress (yes, it's long overdue).

@@ -1,0 +1,53 @@
+---
+layout: post
+title: Moo
+categories:
+- japan
+- misc
+- photos
+- tokyo-cow-parade
+comments: true
+---
+Today I noticed something a little strange near my work - a life-sized statue of a cow.
+
+<!-- TODO --> <a href="http://picasaweb.google.com/avparker/TokyoCowParade2008Japan"></a>
+
+{% avpimgcenter /wp-content/uploads/2008/09/cow_30.jpg 640 405 'A statue of a cow' %}
+
+{% avpimgcenter /wp-content/uploads/2008/09/cow_30_closeup.jpg 576 432 'A closeup of the cow statue' %}
+
+I saw another one close by, so I decided to have a closer look...
+
+{% avpimgcenter /wp-content/uploads/2008/09/cow_18.jpg 576 432 'Another statue of a cow' %}
+
+{% avpimgcenter /wp-content/uploads/2008/09/cow_18_milk_tank.jpg 424 604 'Milk Tank' %}
+
+<!--more-->
+
+{% avpimgcenter /wp-content/uploads/2008/09/cow_18_tears_overflow.jpg 416 604 'Tears overflow' %}
+
+{% avpimgcenter /wp-content/uploads/2008/09/cow_18_spring_of_life.jpg 576 431 'Spring of the life' %}
+
+{% avpimgcenter /wp-content/uploads/2008/09/cow_18_unkind_heart.jpg 512 404 'Unkind heart' %}
+
+{% avpimgcenter /wp-content/uploads/2008/09/cow_18_happiness_vending_machine.jpg 414 604 'Happiness vending machine' %}
+
+A few years ago I saw something similar in Tulsa (that time is was life-sized penguins), so I figured they were part of some sort of charity event. Sure enough, at the base of the statue was a metal plate with a number and information about the statue.
+
+{% avpimgcenter /wp-content/uploads/2008/09/cow_18_plaque.jpg 640 434 'The plaque on a decorated statue of a cow' %}
+
+The statues are part of the [2008 Tokyo Cow Parade](http://www.cowparade-tokyo.com/) (the site is in Japanese but there is an English description [here](http://www.cowparade-tokyo.com/english/about.html)).
+
+{% avpimgcenter /wp-content/uploads/2008/09/cow_poster.jpg 453 604 'A poster for the cow parade' %}
+
+I found one other rather unusual cow statue during my lunch break:
+{% avpimgcenter /wp-content/uploads/2008/09/cow_17.jpg 576 404 'Cow number 17' %}
+
+In total there are a total of __73__ statues scattered around Marunouchi, so I decided it would be interesting to try to find them all!
+
+Cows found today: 30, 18, 17.<br/>
+Total cows found to date: __3 of 73__.
+
+__Note:__ there is a [map](http://www.cowparade-tokyo.com/map.html) ([english version](http://www.cowparade-tokyo.com/english/map.html)) showing the locations of all the cows. I'm __not__ using the map, just seeing how many I can find. It's more fun that way, really!
+
+__Update:__ The rest of the blog entries for the cow-hunt will be tagged with [tokyo-cow-parade]({{root_url}}/{{site.category_dir}}/tokyo-cow-parade/), and all the photos can be seen in my [picasa gallery](http://picasaweb.google.com/avparker/TokyoCowParade2008Japan).

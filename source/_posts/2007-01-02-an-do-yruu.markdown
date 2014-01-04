@@ -1,0 +1,43 @@
+---
+layout: post
+title: 安努竜
+categories:
+- japan
+- japanese
+comments: true
+---
+ 昨年、日本へ行ったとき、ホームステイのお母さんとホームステイの妹が僕の漢字の名前を選んで教えてくれました。
+(When I went to Japan last year, my host mother and host sister chose my name in Kanji.)
+
+#### アンドリュー
+
+Before I went to Japan, I had always used "アンドリュー" for my name in Japanese. This is "andoryuu", the closes pronounciation of "Andrew" in Japanese, written in [katakana](http://en.wikipedia.org/wiki/Katakana). This is a common practice, and something you will typically learn if you do a beginners course in Japanese.
+
+#### Choosing a Kanji equivalent
+
+When I got to Japan, my host mother explained that it might be possible to chose a [Kanji](http://en.wikipedia.org/wiki/Kanji) equivalent, even for a western name. This is done by finding kanji that have readings that match the sounds of your name. For my name, that meant finding kanji for the sounds あん(an), ど(do), and りゅう(ryuu).
+
+This is quite a difficult process. Each kanji has a core meaning, and one or more readings (typically one or two syllables). You will generally have a choice of kanji for each of the sounds in your name, although sounds common in western names may not have any kanji. There can even be more than one Kanji with the same meaning and sound. Some readings of a kanji may not be suitable for use in names, so it's definitely best to get the help of a Japanese person for this! Take a look at [Hanzi Smatter](http://www.hanzismatter.com/) for some examples of people getting tattoos of Japanese/Chinese characters when they obviously have _no idea_ what they mean!
+
+In the end, if you're lucky, you end up with a kanji name that has a "meaning" (really more of a connotation) that appeals to you.
+
+家族が教えてくれた名前は安努竜<br/>
+(The name my family taught me is 安努竜)
+
+__安__ - relax <br/>
+__努__ - strive <br/>
+__竜__ - dragon
+
+うれしい！素敵名前と思う。お母さん、ゆかちゃん、ありがとうございます！
+(I'm happy! I think it's a great name. Thankyou to Mum and Yuka!).
+
+安努竜。
+Andrew.
+
+__PS:__ A friend tells me that 安努竜 doesn't make sense in Chinese (the last two kanji don't mean anything). It's better than it meaning something completely different!
+Perhaps the other Kanji for dragon (龍) has the same meaning in Chinese?
+
+__PPS:__ As m1k3y noted, if you don't have Japanese fonts installed all you see is a bunch of ???s. Here's a picture of the name:
+
+{% avpimgcenter /wp-content/kanji_andrew.jpg 177 108 'Kanji for Andrew' %}
+
