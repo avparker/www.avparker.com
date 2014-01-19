@@ -2,7 +2,7 @@
 layout: page
 title: "About Andrew V Parker"
 date: 2008-08-02 08:17
-updated: 2012-03-10 16:50
+updated: 2015-01-05 15:30
 comments: false
 sharing: true
 footer: true
